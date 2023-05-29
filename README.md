@@ -12,8 +12,11 @@ TODO
 ### Documentação da API: [Swagger](http://localhost:8080/swagger-ui/index.html#/) 
 
 - utilizamos no geral imagens leves:`postgre:alpine` & `maven:3.8.5-openjdk-17-slim`
-[_compose.yaml_](compose.yaml)
+
+
 ```
+# arquivo docker-compose.yaml
+
 services:
   api:
     build: 
