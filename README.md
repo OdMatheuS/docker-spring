@@ -5,7 +5,7 @@
 ### Aplicação Back-end Java Spring Boot e um banco de dados PostgreSql
 
 Estrutura do projeto:
-![Visualização Macro](./img2.png)
+![Visualização Macro](./DiagramaDockerCompose.png)
 
 ### Documentação da API: [Swagger](http://localhost:8080/swagger-ui/index.html#/) 
 
