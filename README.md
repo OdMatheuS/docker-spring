@@ -9,7 +9,7 @@ Estrutura do projeto:
 
 ### Documentação da API: [Swagger](http://localhost:8080/swagger-ui/index.html#/) 
 
-- utilizamos no geral imagens leves:`postgre:alpine` & `maven:3.8.5-openjdk-17-slim`
+- utilizamos no geral imagens leves:`postgres:alpine` & `maven:3.8.5-openjdk-17-slim`
 
 
 ```
