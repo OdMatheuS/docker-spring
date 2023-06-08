@@ -1,6 +1,6 @@
 ## Docker Compose Aplicação Web
 
-## Video: [demo da aplicação]([www.youtube.com](https://youtu.be/Ap9fbU8gUa4))
+## Video: [demo da aplicação](https://youtu.be/Ap9fbU8gUa4)
 
 ### Aplicação Back-end Java Spring Boot e um banco de dados PostgreSql
 
