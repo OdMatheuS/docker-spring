@@ -92,22 +92,6 @@ Depois que o aplicativo iniciar, navegue até `http://localhost:8080/swagger-ui/
 ![Aplicação](./img.png)
 
 O contêiner de serviço de back-end(api) tem a porta 8080 mapeada para o host.
-```
-$ curl http://localhost:8080/api/users
-[
-  {
-    "id": 1,
-    "name": "thiago silva",
-    "email": "thiagosilva@email.com"
-  },
-  {
-    "id": 2,
-    "name": "jose carlos",
-    "email": "josecarlos22@gmail.com"
-  }
-]
-
-```
 
 Interromper os containers
 ```
